@@ -8,7 +8,10 @@ A chatbot developed using seq2seq encoder-decoder
 git clone https://github.com/saadarshad102/Chatbot-Seq2Seq.git
 ```
 
-* Open Sentiment-Analysis folder
+* Open Chatbot-Seq2Seq folder
 
 ## Usage
 Just run the Notebook
+
+## Example
+![alt text](https://github.com/saadarshad102/Chatbot-Seq2Seq/blob/master/example.JPG)
